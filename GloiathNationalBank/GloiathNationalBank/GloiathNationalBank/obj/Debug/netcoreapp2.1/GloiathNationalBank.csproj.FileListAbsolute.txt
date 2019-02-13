@@ -1,0 +1,14 @@
+/Users/endalia/Projects/test/GloiathNationalBank/GloiathNationalBank/bin/Debug/netcoreapp2.1/GloiathNationalBank.deps.json
+/Users/endalia/Projects/test/GloiathNationalBank/GloiathNationalBank/bin/Debug/netcoreapp2.1/GloiathNationalBank.runtimeconfig.json
+/Users/endalia/Projects/test/GloiathNationalBank/GloiathNationalBank/bin/Debug/netcoreapp2.1/GloiathNationalBank.runtimeconfig.dev.json
+/Users/endalia/Projects/test/GloiathNationalBank/GloiathNationalBank/bin/Debug/netcoreapp2.1/GloiathNationalBank.dll
+/Users/endalia/Projects/test/GloiathNationalBank/GloiathNationalBank/bin/Debug/netcoreapp2.1/GloiathNationalBank.pdb
+/Users/endalia/Projects/test/GloiathNationalBank/GloiathNationalBank/obj/Debug/netcoreapp2.1/GloiathNationalBank.csprojAssemblyReference.cache
+/Users/endalia/Projects/test/GloiathNationalBank/GloiathNationalBank/obj/Debug/netcoreapp2.1/GloiathNationalBank.csproj.CoreCompileInputs.cache
+/Users/endalia/Projects/test/GloiathNationalBank/GloiathNationalBank/obj/Debug/netcoreapp2.1/GloiathNationalBank.RazorAssemblyInfo.cache
+/Users/endalia/Projects/test/GloiathNationalBank/GloiathNationalBank/obj/Debug/netcoreapp2.1/GloiathNationalBank.RazorAssemblyInfo.cs
+/Users/endalia/Projects/test/GloiathNationalBank/GloiathNationalBank/obj/Debug/netcoreapp2.1/GloiathNationalBank.AssemblyInfoInputs.cache
+/Users/endalia/Projects/test/GloiathNationalBank/GloiathNationalBank/obj/Debug/netcoreapp2.1/GloiathNationalBank.AssemblyInfo.cs
+/Users/endalia/Projects/test/GloiathNationalBank/GloiathNationalBank/obj/Debug/netcoreapp2.1/GloiathNationalBank.RazorTargetAssemblyInfo.cache
+/Users/endalia/Projects/test/GloiathNationalBank/GloiathNationalBank/obj/Debug/netcoreapp2.1/GloiathNationalBank.dll
+/Users/endalia/Projects/test/GloiathNationalBank/GloiathNationalBank/obj/Debug/netcoreapp2.1/GloiathNationalBank.pdb
